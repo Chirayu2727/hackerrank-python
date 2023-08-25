@@ -1,2 +1,2 @@
-# hackerrank-python
+# hackerrank-python-solution
 solution to python problem
